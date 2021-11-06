@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Innomationlive/static/css/main.b29dee0e.chunk.css",
-    "main.js": "/Innomationlive/static/js/main.68589b3e.chunk.js",
-    "main.js.map": "/Innomationlive/static/js/main.68589b3e.chunk.js.map",
+    "main.js": "/Innomationlive/static/js/main.0c271ef1.chunk.js",
+    "main.js.map": "/Innomationlive/static/js/main.0c271ef1.chunk.js.map",
     "runtime-main.js": "/Innomationlive/static/js/runtime-main.9793dada.js",
     "runtime-main.js.map": "/Innomationlive/static/js/runtime-main.9793dada.js.map",
     "static/js/2.fc805aa9.chunk.js": "/Innomationlive/static/js/2.fc805aa9.chunk.js",
@@ -31,7 +31,9 @@
     "static/media/EngineeringandCommissioning.2ec5d445.jpg": "/Innomationlive/static/media/EngineeringandCommissioning.2ec5d445.jpg",
     "static/media/Experience.92a3967d.png": "/Innomationlive/static/media/Experience.92a3967d.png",
     "static/media/Gk.516022d2.png": "/Innomationlive/static/media/Gk.516022d2.png",
+    "static/media/HMIs.6c7fc50a.jpg": "/Innomationlive/static/media/HMIs.6c7fc50a.jpg",
     "static/media/Hul.638b73e4.png": "/Innomationlive/static/media/Hul.638b73e4.png",
+    "static/media/IndustrialSpareparts1.9562f4be.jpg": "/Innomationlive/static/media/IndustrialSpareparts1.9562f4be.jpg",
     "static/media/Itc.6ae43e0f.png": "/Innomationlive/static/media/Itc.6ae43e0f.png",
     "static/media/Kraft.7629653a.png": "/Innomationlive/static/media/Kraft.7629653a.png",
     "static/media/MachineAutomation.8ce3667f.jpg": "/Innomationlive/static/media/MachineAutomation.8ce3667f.jpg",
@@ -40,6 +42,8 @@
     "static/media/Ontime.2e1685d2.png": "/Innomationlive/static/media/Ontime.2e1685d2.png",
     "static/media/PLC.cc46b7ce.png": "/Innomationlive/static/media/PLC.cc46b7ce.png",
     "static/media/PLCProgramming.6872e295.jpg": "/Innomationlive/static/media/PLCProgramming.6872e295.jpg",
+    "static/media/PLCs.122c4aa6.png": "/Innomationlive/static/media/PLCs.122c4aa6.png",
+    "static/media/PanelAccessories.54d74aa5.jpg": "/Innomationlive/static/media/PanelAccessories.54d74aa5.jpg",
     "static/media/PanelBuilding.79563ad5.png": "/Innomationlive/static/media/PanelBuilding.79563ad5.png",
     "static/media/PanelBuilding.8a8b4a34.jpg": "/Innomationlive/static/media/PanelBuilding.8a8b4a34.jpg",
     "static/media/Parle.5f599886.png": "/Innomationlive/static/media/Parle.5f599886.png",
@@ -48,6 +52,7 @@
     "static/media/Pladis.13e0b981.png": "/Innomationlive/static/media/Pladis.13e0b981.png",
     "static/media/Quality.ab78c35c.png": "/Innomationlive/static/media/Quality.ab78c35c.png",
     "static/media/Satisfaction.0a8d672e.png": "/Innomationlive/static/media/Satisfaction.0a8d672e.png",
+    "static/media/Sensors.935a4c63.jpeg": "/Innomationlive/static/media/Sensors.935a4c63.jpeg",
     "static/media/Sobisco.78ea004c.png": "/Innomationlive/static/media/Sobisco.78ea004c.png",
     "static/media/ThirdParty.af4f91f9.png": "/Innomationlive/static/media/ThirdParty.af4f91f9.png",
     "static/media/ThirdPartyIntegration.9be5b5dc.jpg": "/Innomationlive/static/media/ThirdPartyIntegration.9be5b5dc.jpg",
@@ -67,6 +72,6 @@
     "static/js/runtime-main.9793dada.js",
     "static/js/2.fc805aa9.chunk.js",
     "static/css/main.b29dee0e.chunk.css",
-    "static/js/main.68589b3e.chunk.js"
+    "static/js/main.0c271ef1.chunk.js"
   ]
 }
