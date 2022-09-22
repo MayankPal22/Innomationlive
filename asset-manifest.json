@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Innomationlive/static/css/main.b29dee0e.chunk.css",
-    "main.js": "/Innomationlive/static/js/main.0c271ef1.chunk.js",
-    "main.js.map": "/Innomationlive/static/js/main.0c271ef1.chunk.js.map",
+    "main.css": "/Innomationlive/static/css/main.acea1bd5.chunk.css",
+    "main.js": "/Innomationlive/static/js/main.6982a493.chunk.js",
+    "main.js.map": "/Innomationlive/static/js/main.6982a493.chunk.js.map",
     "runtime-main.js": "/Innomationlive/static/js/runtime-main.9793dada.js",
     "runtime-main.js.map": "/Innomationlive/static/js/runtime-main.9793dada.js.map",
-    "static/js/2.fc805aa9.chunk.js": "/Innomationlive/static/js/2.fc805aa9.chunk.js",
-    "static/js/2.fc805aa9.chunk.js.map": "/Innomationlive/static/js/2.fc805aa9.chunk.js.map",
+    "static/js/2.e4bb9c2f.chunk.js": "/Innomationlive/static/js/2.e4bb9c2f.chunk.js",
+    "static/js/2.e4bb9c2f.chunk.js.map": "/Innomationlive/static/js/2.e4bb9c2f.chunk.js.map",
     "index.html": "/Innomationlive/index.html",
-    "static/css/main.b29dee0e.chunk.css.map": "/Innomationlive/static/css/main.b29dee0e.chunk.css.map",
-    "static/js/2.fc805aa9.chunk.js.LICENSE.txt": "/Innomationlive/static/js/2.fc805aa9.chunk.js.LICENSE.txt",
+    "static/css/main.acea1bd5.chunk.css.map": "/Innomationlive/static/css/main.acea1bd5.chunk.css.map",
+    "static/js/2.e4bb9c2f.chunk.js.LICENSE.txt": "/Innomationlive/static/js/2.e4bb9c2f.chunk.js.LICENSE.txt",
     "static/media/1.147a3f45.png": "/Innomationlive/static/media/1.147a3f45.png",
     "static/media/1.5c135a3a.png": "/Innomationlive/static/media/1.5c135a3a.png",
     "static/media/2.23b2c1d3.png": "/Innomationlive/static/media/2.23b2c1d3.png",
@@ -63,15 +63,14 @@
     "static/media/iiot.4be6105f.jpg": "/Innomationlive/static/media/iiot.4be6105f.jpg",
     "static/media/logo-small.6f3992f5.png": "/Innomationlive/static/media/logo-small.6f3992f5.png",
     "static/media/logo.86b19b22.jpg": "/Innomationlive/static/media/logo.86b19b22.jpg",
-    "static/media/phone-icon.f12b83b5.png": "/Innomationlive/static/media/phone-icon.f12b83b5.png",
     "static/media/profile.bbc416da.jpg": "/Innomationlive/static/media/profile.bbc416da.jpg",
     "static/media/themify-icons.css": "/Innomationlive/static/media/themify.f0fc8c79.svg",
     "static/media/Testimonials.module.scss": "/Innomationlive/static/media/user.a6143582.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9793dada.js",
-    "static/js/2.fc805aa9.chunk.js",
-    "static/css/main.b29dee0e.chunk.css",
-    "static/js/main.0c271ef1.chunk.js"
+    "static/js/2.e4bb9c2f.chunk.js",
+    "static/css/main.acea1bd5.chunk.css",
+    "static/js/main.6982a493.chunk.js"
   ]
 }
